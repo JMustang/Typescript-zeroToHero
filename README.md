@@ -1,3 +1,3 @@
-# Typescript-zeroToHero:
+# Typescript-ZeroToHero:
 
-## Prof:Glaucia Lemos
+## profª:Glaucia Lemos
